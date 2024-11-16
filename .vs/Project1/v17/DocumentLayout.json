@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cuty computer\\Desktop\\os\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4CF589-E99D-44C1-9CE9-DA343345E6FB}|Project1\\Project1.vcxproj|C:\\Users\\cuty computer\\Desktop\\os\\Project1\\Project1\\pong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED4CF589-E99D-44C1-9CE9-DA343345E6FB}|Project1\\Project1.vcxproj|solutionrelative:Project1\\pong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4CF589-E99D-44C1-9CE9-DA343345E6FB}|Project1\\Project1.vcxproj|C:\\Users\\cuty computer\\Desktop\\os\\Project1\\Project1\\Assign2 q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED4CF589-E99D-44C1-9CE9-DA343345E6FB}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Assign2 q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4CF589-E99D-44C1-9CE9-DA343345E6FB}|Project1\\Project1.vcxproj|C:\\Users\\cuty computer\\Desktop\\os\\Project1\\Project1\\Assign2 q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED4CF589-E99D-44C1-9CE9-DA343345E6FB}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Assign2 q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4CF589-E99D-44C1-9CE9-DA343345E6FB}|Project1\\Project1.vcxproj|C:\\Users\\cuty computer\\Desktop\\os\\Project1\\Project1\\assign1 q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED4CF589-E99D-44C1-9CE9-DA343345E6FB}|Project1\\Project1.vcxproj|solutionrelative:Project1\\assign1 q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4CF589-E99D-44C1-9CE9-DA343345E6FB}|Project1\\Project1.vcxproj|C:\\Users\\cuty computer\\Desktop\\os\\Project1\\Project1\\assign1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED4CF589-E99D-44C1-9CE9-DA343345E6FB}|Project1\\Project1.vcxproj|solutionrelative:Project1\\assign1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pong.cpp",
+              "DocumentMoniker": "C:\\Users\\cuty computer\\Desktop\\os\\Project1\\Project1\\pong.cpp",
+              "RelativeDocumentMoniker": "Project1\\pong.cpp",
+              "ToolTip": "C:\\Users\\cuty computer\\Desktop\\os\\Project1\\Project1\\pong.cpp",
+              "RelativeToolTip": "Project1\\pong.cpp",
+              "ViewState": "AQIAAEwDAAAAAAAAAAAmwF8DAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T05:40:59.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assign2 q2.cpp",
+              "DocumentMoniker": "C:\\Users\\cuty computer\\Desktop\\os\\Project1\\Project1\\Assign2 q2.cpp",
+              "RelativeDocumentMoniker": "Project1\\Assign2 q2.cpp",
+              "ToolTip": "C:\\Users\\cuty computer\\Desktop\\os\\Project1\\Project1\\Assign2 q2.cpp",
+              "RelativeToolTip": "Project1\\Assign2 q2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T05:40:29.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assign2 q1.cpp",
+              "DocumentMoniker": "C:\\Users\\cuty computer\\Desktop\\os\\Project1\\Project1\\Assign2 q1.cpp",
+              "RelativeDocumentMoniker": "Project1\\Assign2 q1.cpp",
+              "ToolTip": "C:\\Users\\cuty computer\\Desktop\\os\\Project1\\Project1\\Assign2 q1.cpp",
+              "RelativeToolTip": "Project1\\Assign2 q1.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAJEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T05:40:13.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "assign1 q2.cpp",
+              "DocumentMoniker": "C:\\Users\\cuty computer\\Desktop\\os\\Project1\\Project1\\assign1 q2.cpp",
+              "RelativeDocumentMoniker": "Project1\\assign1 q2.cpp",
+              "ToolTip": "C:\\Users\\cuty computer\\Desktop\\os\\Project1\\Project1\\assign1 q2.cpp",
+              "RelativeToolTip": "Project1\\assign1 q2.cpp",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAowHEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T05:37:19.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "assign1.cpp",
+              "DocumentMoniker": "C:\\Users\\cuty computer\\Desktop\\os\\Project1\\Project1\\assign1.cpp",
+              "RelativeDocumentMoniker": "Project1\\assign1.cpp",
+              "ToolTip": "C:\\Users\\cuty computer\\Desktop\\os\\Project1\\Project1\\assign1.cpp",
+              "RelativeToolTip": "Project1\\assign1.cpp",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAmwOgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T05:36:57.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
